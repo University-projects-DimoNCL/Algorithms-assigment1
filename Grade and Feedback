@@ -1,0 +1,18 @@
+Grade - 76.67% (23/30)
+Feedback:
+Individual Feedback for "Assignment 1"
+Task 1: Insertion Sort (16%): You implemented the insertion sort algorithm well. Your comparison count was very well implemented and correctly counts all comparisons. You did not make use of the private variable usedSize which tells you the number of elements read into the array. This meant you could be using too much of the array.
+
+Task 2: Quicksort (17%): You implemented the quicksort algorithm very well following the given pseudo code. The partition algorithm was nicely implemented as a private method. The comparison count was implemented well.
+
+Task 3: New Sort (17%): Good implementation of Newsort algorithm which follows the pseudo code given. Comparison count was implemented very well.  You did not make use of the private variable usedSize which tells you the number of elements read into the array. This meant you were working with too much of the array.
+
+Task 4: Testing (17%): You tested the three sorting methods very well. Your test class is too simple and reproducing your test results is difficult to do. It only refers to the first text file so looks like it needs to code to be recompiled before using it again with the other files. The test results have been modified from the program to improve the formatting, e.g. the blue headers around the comparison counters. It would be better to leave the results as they appeared directly from your test program.
+
+Task 5: Observations (17%): You have given some very good observations but some observations could be further strengthened. The two observations about Newsort were very good.  You could strengthen some of your observations further by relating them more to your test results. For example, you could calculate how much faster one sorting method is than another on a particular test file.
+
+Code Quality (16%): Need to fully complete header comment at the beginning of each class. Generally good use of auxiliary private methods, e.g. for swapping array elements. Partition could also be a private method too. Otherwise, very nicely written code which follows good programming practice.
+
+A First class mark, well done.
+
+Dr J Colquhoun
